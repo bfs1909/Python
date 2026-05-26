@@ -1,0 +1,47 @@
+#print("ola mundo")
+
+#nome = "Beatriz"
+#print("ola " + nome)
+
+#saudacoa = input("Digite uma saudação: ")
+#pessoa = input("Digite o nome de uma pessoa: ")
+
+#print(saudacoa + ' , ' + pessoa )
+
+#x = 2
+#if x > 5:
+#   print("Parabens, passou de ano!")
+#else:
+#    print("Infelizmente, voce reprovou.")
+
+#nome = input('Diga seu nome:')
+#idade = input('Qual a sua idade?')
+#peso = input('Qual o seu peso?')
+
+#print ('A',nome, 'tem', idade, 'e pesa', peso, 'Kg')
+
+# Desafio 1
+#nome = input('Diga seu nome:')
+
+#print('Ola', nome, 'seja bem vindo!')
+
+# Desafio 2
+#dia = input('Digite o dia do seu nascimento:')
+#mes = input('Digite o mês do seu nascimento:')
+#ano = input('Digite o ano do seu nascimento:')
+
+#print('Você nasceu no dia', dia, 'de', mes, 'de', ano,'. Correto?')
+
+# Desafio 3
+#n1 = input('Digite um numero:')
+#n2 = input('Digite outro numero:')
+
+#print(n1, '+', n2, '=', int(n1) + int(n2))
+
+#n1 = input('Digite um numero:')
+#n2 = input('Digite outro numero:')
+#soma = int(n1) + int(n2)
+
+#print(n1, '+', n2, '=', soma)
+#print(f'{n1} + {n2} = {soma}')
+#print('A soma e', soma)
