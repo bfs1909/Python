@@ -10,4 +10,4 @@ area = l * a
 p = area / 2
 
 print(f'A area da parede é {area:.0f}m²')
-print(f'Portanto você precisara de {p:.0f} litros de tinta')
+print(f'Portanto você precisara de {p:.0f} litros de tinta para pintar essa parede.')
